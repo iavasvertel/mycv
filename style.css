@@ -29,6 +29,8 @@ body {
 .wrapper .my-name {
   font-size: 1.4rem;
   background-color: rgb(5, 153, 141);
+  font-style: oblique;
+  color: beige;
   padding: 15px;
 }
 
